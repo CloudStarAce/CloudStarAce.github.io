@@ -123,6 +123,32 @@ div.headerBlock-Top {height: 110px;
 
   
 }
+
+a#TheCloud,a#DaBook,a#Twitta,a#Gram,a#Tube {
+	
+	height: 110px;
+	width: 110px;
+	display:inline-block;
+	background-repeat: no-repeat;
+	  background-size: contain;
+
+}
+
+a#TheCloud {
+	background-image: url('Img/TheCloud.ico');
+}
+a#DaBook{
+	background-image: url('Img/TheBook.png');
+}
+a#Twitta {
+	background-image: url('Img/Twitta.png');
+}
+a#Gram{
+background-image: url('Img/Gram.jpg');	
+}
+a#Tube{
+background-image: url('Img/Tube.jpg');		
+}
 a#TheBook {
 	
 	background-image: url('Img/IMAGEES.png');
